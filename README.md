@@ -1,0 +1,2 @@
+# SimpleJavaGame
+Just for fun
